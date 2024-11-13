@@ -306,20 +306,3 @@
 [小米面经，二面等通知中](https://github.com/MoRan1607/BigDataGuide/blob/master/%E9%9D%A2%E8%AF%95/%E9%9D%A2%E7%BB%8F/%E5%A4%A7%E6%95%B0%E6%8D%AE%E9%9D%A2%E7%BB%8F/%E5%B0%8F%E7%B1%B3/%E5%B0%8F%E7%B1%B3%E9%9D%A2%E7%BB%8F%EF%BC%8C%E4%BA%8C%E9%9D%A2%E7%AD%89%E9%80%9A%E7%9F%A5%E4%B8%AD%E3%80%82.pdf)      
      
 
-
-
-
-
-
-大数据&后端书籍
----   
-PDF书籍（含Hadoop、Spark、Flink等大数据书籍）在公众号回复关键字“大数据书籍”或“Java书籍”自行进百度云盘群保存即可  
-
-## 交流群
-交流群建好了，进群的小伙伴可以加我微信：**MoRan1607，备注：GitHub**  
-<p align="center">
-<img src="https://github.com/Dr11ft/BigDataGuide/blob/master/Pics/%E5%BE%AE%E4%BF%A1.jpg" width="200" height="200"/>  
-<p align="center">
-</p>
-</p>  
-
