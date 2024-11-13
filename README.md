@@ -2,31 +2,6 @@
 ===
 >大数据学习指南，从零开始学习大数据开发，包含大数据学习各个阶段资汇总     
 
-## 公众号
-关注我的公众号：**旧时光大数据**，回复相应关键字，获取更多大数据干货、资料<br>    
-“大数据学习路线”中我自己看过的视频、文档资料可以直接在公众号获取云盘链接   
-
-### 《[大数据面试题 V5.0](https://mp.weixin.qq.com/s/NV90886HAQqBRB1hPNiIPQ)》已出，公众号回复：大数据面试题     
-
-<p align="center">
-<img src="https://github.com/MoRan1607/BigDataGuide/blob/master/Pics/%E5%85%AC%E4%BC%97%E5%8F%B7%E4%BA%8C%E7%BB%B4%E7%A0%81.jpg" width="200" height="200"/>  
-<p align="center">
-</p>
-</p>    
-
-## 知识星球
-
-知识星球内容包括**学习路线**、**学习资料**（根据编程语言（Java、Python、Java+Scala）分了三大版本）、项目（**50+个大数据项目**）、面试题（**1550+道真实大数据面试题**、Java基础、计算机网络、Redis、ClickHouse、Elasticsearch）、**1200+篇大数据真实面经**、600+篇Java后端真实面经（已按公司分类）、自己整理的视频学习笔记  
-
-新增：Java基础、计算机网络、ClickHouse、Elasticsearch 面试题   
-
-**[知识星球资料介绍](https://www.yuque.com/vxo919/gyyog3/ohvyc2e38pprcxkn?singleDoc=)**   
-
-<p align="center">
-<img src="https://github.com/MoRan1607/BigDataGuide/blob/master/Pics/%E6%98%9F%E7%90%83%E4%BC%98%E6%83%A0%E5%88%B820240926.png"  width="300" height="387"/>  
-<p align="center">
-</p>
-</p>  
 
 概述
 ---
@@ -43,36 +18,12 @@
 编程语言  
 ---  
 编程语言部分建议先JavaSE，Spark和Flink之前学习Scala，如果时间紧迫，就找个Java版的Spark或Flink教程，Python看个人或工作，不过有Java基础，Python会快很多（别问我怎么学，问就是使劲拼命学 [ 吃瓜.jpg ]）  
-### 一、JavaSE（三选一）     
-[刘意2019版](https://www.bilibili.com/video/BV1gb411F76B?from=search&seid=16116797084076868427)   
-    
-[尚硅谷宋红康版](https://www.bilibili.com/video/BV1Kb411W75N?from=search&seid=9321658006825735818)   
+### 一、JavaSE   
+### 二、Scala
 
-[黑马版](https://www.bilibili.com/video/BV1Cv411372m/?spm_id_from=333.337.search-card.all.click&vd_source=6e976aeae23aa587d36891ef2e760d5f)    
-
-[JavaSE视频文档](https://github.com/MoRan1607/BigDataGuide/tree/master/ProgrammingLanguage/Java)   
-
-### 二、Scala（二选一）  
-如果时间短，建议直接看配套Spark的那种三五天的，可以快速了解  
-   
-[韩顺平老师版](https://www.bilibili.com/video/BV1Mp4y1e7B5?from=search&seid=5450215228532207134)   
-   
-[清华硕士武晟然老师版](https://www.bilibili.com/video/BV1Mp4y1e7B5?from=search&seid=5450215228532207134)   
 
 ### 三、Python  
-推荐黑马的Python视频，通俗易懂，而且文档比较齐全，有Java基础再看Python的话，上手很快   
-   
-[黑马Python版视频](https://www.bilibili.com/video/BV1C4411A7ej?from=search&seid=11669436417044703145)   
-    
-[Python文档and笔记](https://github.com/MoRan1607/BigDataGuide/blob/master/Python/Python%E6%96%87%E6%A1%A3.md)    
 
-Linux
----  
-[完全分布式集群搭建文档](https://github.com/Dr11ft/BigDataGuide/blob/master/Hadoop/%E5%88%86%E5%B8%83%E5%BC%8F%E9%9B%86%E7%BE%A4%E6%90%AD%E5%BB%BA.md)  
-    
-关于VM、远程登录工具的安装暂时可以参考我的博客，找到相应步骤进行操作即可  
-    
-[集群搭建](https://blog.csdn.net/qq_41544550/category_9458240.html)  
 
 大数据框架组件
 ---
@@ -160,10 +111,6 @@ Linux
 ---   
 &emsp; [数据仓库总结](https://zhuanlan.zhihu.com/p/371365562)  
 
-大数据项目  
----  
-&emsp; **基本上选择三到四个即可，B站直接搜索项目名字，都有视频**  
-&emsp; **详细说明公众号（旧时光大数据）回复“大数据项目”即可**  
 
 读书笔记
 ---   
@@ -178,10 +125,6 @@ Linux
 
 面试题
 ---
-> #### 陆续更新中。。。。。全量面试题（1550+道牛客网面经原题）见知识星球
-### [大数据面试题 V1.0](https://github.com/MoRan1607/BigDataGuide/blob/master/%E9%9D%A2%E8%AF%95/%E5%A4%A7%E6%95%B0%E6%8D%AE%E9%9D%A2%E8%AF%95%E9%A2%98%20V1.0.md)  
-### [大数据面试题 V3.0](https://mp.weixin.qq.com/s/hMcuDEkzH49rfSmGWy_GRg)    
-### [大数据面试题 V4.0](https://mp.weixin.qq.com/s/NV90886HAQqBRB1hPNiIPQ)     
 #### 一、Hadoop  
 ##### 1、Hadoop基础
 [介绍下Hadoop](https://blog.csdn.net/qq_41544550/article/details/123031348)  
